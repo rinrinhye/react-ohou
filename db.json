@@ -1,0 +1,429 @@
+{
+  "interior-pic-posts": [
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_01.jpeg",
+      "userName": "asdf",
+      "userSrc": "assets/interior-pic-posts/user_01.jpeg"
+    },
+
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_02.jpeg",
+      "userName": "핑핑이",
+      "userSrc": "assets/interior-pic-posts/user_02.jpeg"
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_03.jpeg",
+      "userName": "네모네모",
+      "userSrc": "assets/interior-pic-posts/user_03.jpeg"
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_04.jpeg",
+      "userName": "빼빼로",
+      "userSrc": "assets/interior-pic-posts/user_04.jpeg"
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_05.jpeg",
+      "userName": "스펀지밥",
+      "userSrc": ""
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_06.jpeg",
+      "userName": "azzzzzzz",
+      "userSrc": ""
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_07.jpeg",
+      "userName": "조현정",
+      "userSrc": "assets/interior-pic-posts/user_07.jpeg"
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_08.jpeg",
+      "userName": "spdlf",
+      "userSrc": ""
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_09.jpeg",
+      "userName": "린린",
+      "userSrc": ""
+    },
+    {
+      "imageSrc": "assets/interior-pic-posts/interior_pic_10.jpeg",
+      "userName": "잠온다",
+      "userSrc": "assets/interior-pic-posts/user_10.jpeg"
+    }
+  ],
+  "today-deal-products": [
+    {
+      "title": "바른칫솔 & 부광약품 안티프라그 초극세모 칫솔 특가",
+      "brandName": "부광약품",
+      "rating": 4.8,
+      "reviewCount": 250,
+      "discountRate": 55,
+      "price": 8900,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_bugwang_tooth_brush.jpeg"
+    },
+    {
+      "title": "[추가옵션 전품목 990원] [3+1] 네이처 대용량 디퓨저 500ml 실내방향제",
+      "brandName": "에이센트",
+      "rating": 4.8,
+      "reviewCount": 3536,
+      "discountRate": 67,
+      "price": 12900,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_ascent_diffuser.jpeg"
+    },
+    {
+      "title": "드리미 X40 Ultra 올인원 로봇청소기+3중컷 브러시 증정(8/29한정)",
+      "brandName": "드리미",
+      "rating": 4.8,
+      "reviewCount": 3536,
+      "discountRate": 56,
+      "price": 1649000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_dreame_robot_vacuum.jpeg"
+    },
+    {
+      "title": "BEST 화장대,침대,수납장 시리즈",
+      "brandName": "리샘",
+      "rating": 4.8,
+      "reviewCount": 23533,
+      "discountRate": 8,
+      "price": 109000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_lissem_furniture.jpeg"
+    },
+    {
+      "title": "시그니앙 골드퍼플 82g 70매 20팩 캡형 아기물티슈",
+      "brandName": "아이러브베베",
+      "rating": 4.9,
+      "reviewCount": 348,
+      "discountRate": 36,
+      "price": 25400,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 10
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_ilovebebe_wet_wipes.jpeg"
+    },
+    {
+      "title": "혜택가 59만원대 LG 일반냉장고 B502S33 샤인 멀티냉각 507L",
+      "brandName": "LG전자",
+      "rating": 4.9,
+      "reviewCount": 341,
+      "discountRate": 26,
+      "price": 732000,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": {
+          "time": "12:00"
+        },
+        "paymentDiscount": {
+          "percent": 5
+        }
+      },
+      "imageSrc": "assets/today-deal-products/product_lg_refrigerator.jpeg"
+    },
+    {
+      "title": "[오늘의딜] 파격사은품 미닉스 미니 건조기 PRO+ 3.5kg",
+      "brandName": "미닉스",
+      "rating": 4.8,
+      "reviewCount": 11884,
+      "discountRate": 26,
+      "price": 732000,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_minix_mini_dryer.jpeg"
+    },
+    {
+      "title": "[9/7 원데이특가+상품권 증정] 캄포 모듈형 패브릭 소파 (2인/3인/4인/코너형)",
+      "brandName": "까사미아",
+      "rating": 4.7,
+      "reviewCount": 713,
+      "discountRate": 26,
+      "price": 1440000,
+      "otherProducts": true,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_casamia_sofa.jpeg"
+    },
+    {
+      "title": "[9/7 단,하루 12팩 더]오리지널 플러스 아기물티슈 20매 휴대 캡 12+12팩",
+      "brandName": "브라운물티슈",
+      "rating": 4.8,
+      "reviewCount": 106,
+      "discountRate": 26,
+      "price": 16900,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_brown_wet_wipes.jpeg"
+    },
+    {
+      "title": "[오늘만57,800원]루미 자동센서 휴지통 20L (5colors)",
+      "brandName": "마리슈타이거",
+      "rating": 4.7,
+      "reviewCount": 3382,
+      "discountRate": 26,
+      "price": 16900,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": true,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_mari_steiger_wastebasket.jpeg"
+    },
+    {
+      "title": "럭스360 키즈 아기 유아칫솔 7개입 외 4개입,3개입 모음",
+      "brandName": "메가텐",
+      "rating": 4.9,
+      "reviewCount": 30,
+      "discountRate": 40,
+      "price": 25500,
+      "otherProducts": false,
+      "badges": {
+        "freeShipping": true,
+        "specialDeal": false,
+        "sameDelivery": false,
+        "paymentDiscount": false
+      },
+      "imageSrc": "assets/today-deal-products/product_megaten_tooth_brush.jpeg"
+    }
+  ],
+  "best-products": {
+    "all": [
+      {
+        "title": "[5%쿠폰] 맞춤 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+        "brandName": "아임홈",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 16800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_immhome_curtain.jpg"
+      },
+      {
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/product_hello_sleep_comforter.jpg"
+      },
+      {
+        "title": "Q4 유로탑 롤팩 매트리스 2size_적당푹신(롤팩)",
+        "brandName": "퀵슬립",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 299900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/product_quick_sleep_mattress.jpg"
+      }
+    ],
+    "school": [
+      {
+        "title": "[5%쿠폰] 맞춤 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+        "brandName": "부광약품",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 16800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/image_immhome_curtain"
+      },
+      {
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/image_hello_sleep_comforter"
+      },
+      {
+        "title": "Q4 유로탑 롤팩 매트리스 2size_적당푹신(롤팩)",
+        "brandName": "퀵슬립",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 299900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/image_quick_sleep_mattress"
+      }
+    ],
+    "furniture": [
+      {
+        "title": "[5%쿠폰] 맞춤 비침없는 도톰 레이스/쉬폰커튼(나비주름/핀형/봉집)",
+        "brandName": "부광약품",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 16800,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/image_immhome_curtain"
+      },
+      {
+        "title": "[15%쿠폰+사은품증정] 부드러운 카스테라 워싱 항균 옥수수솜 간절기&사계절 차렵이불세트",
+        "brandName": "헬로우슬립",
+        "rating": 4.8,
+        "reviewCount": 16299,
+        "discountRate": 37,
+        "price": 35900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": true,
+          "sameDelivery": false,
+          "paymentDiscount": false
+        },
+        "imageSrc": "assets/best-products/image_hello_sleep_comforter"
+      },
+      {
+        "title": "Q4 유로탑 롤팩 매트리스 2size_적당푹신(롤팩)",
+        "brandName": "퀵슬립",
+        "rating": 4.7,
+        "reviewCount": 37438,
+        "discountRate": 55,
+        "price": 299900,
+        "otherProducts": false,
+        "badges": {
+          "freeShipping": true,
+          "specialDeal": false,
+          "sameDelivery": false,
+          "paymentDiscount": {
+            "percent": 3
+          }
+        },
+        "imageSrc": "assets/best-products/image_quick_sleep_mattress"
+      }
+    ],
+    "fabrics": [{}, {}, {}],
+    "kitchenware": [{}, {}, {}],
+    "food": [{}, {}, {}],
+    "decor": [{}, {}, {}],
+    "lighting": [{}, {}, {}],
+    "storage": [{}, {}, {}],
+    "householdGoods": [{}, {}, {}],
+    "dailyNecessities": [{}, {}, {}],
+    "kids": [{}, {}, {}],
+    "pets": [{}, {}, {}],
+    "camping": [{}, {}, {}],
+    "tools": [{}, {}, {}],
+    "interior": [{}, {}, {}],
+    "rental": [{}, {}, {}],
+    "grocery": [{}, {}, {}],
+    "wedding": [{}, {}, {}]
+  }
+}
