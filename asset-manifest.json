@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ohou/static/css/main.249594a1.css",
-    "main.js": "/react-ohou/static/js/main.b591d4d1.js",
+    "main.js": "/react-ohou/static/js/main.f9584369.js",
     "static/js/453.21661415.chunk.js": "/react-ohou/static/js/453.21661415.chunk.js",
     "static/media/Pretendard-Black.woff2": "/react-ohou/static/media/Pretendard-Black.c2be1420d8fb4b99a671.woff2",
     "static/media/Pretendard-ExtraBold.woff2": "/react-ohou/static/media/Pretendard-ExtraBold.26df84c2b3b8cb8a4b0c.woff2",
@@ -89,11 +89,11 @@
     "static/media/ico_star_blue.svg": "/react-ohou/static/media/ico_star_blue.ca8fa74c77c4a119bbfcdfa54817d1ca.svg",
     "static/media/ico_close_white.svg": "/react-ohou/static/media/ico_close_white.1b14bd1724f7b5f0bef39da002da7413.svg",
     "main.249594a1.css.map": "/react-ohou/static/css/main.249594a1.css.map",
-    "main.b591d4d1.js.map": "/react-ohou/static/js/main.b591d4d1.js.map",
+    "main.f9584369.js.map": "/react-ohou/static/js/main.f9584369.js.map",
     "453.21661415.chunk.js.map": "/react-ohou/static/js/453.21661415.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.249594a1.css",
-    "static/js/main.b591d4d1.js"
+    "static/js/main.f9584369.js"
   ]
 }
